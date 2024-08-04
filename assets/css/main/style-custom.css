@@ -1,0 +1,291 @@
+
+/*--------------------------------------------- CSS FOR SERVICE-CONTENT-BOX-DESIGN-ONE START ---------------------------------------*/
+
+.services-content-box.design-one {
+	border: 1px solid #fe6f1d;
+}
+
+.services-content-box.design-one h4 {
+	color: #fe6f1d;
+}
+
+.services-content-box.design-one h4 i {
+	color: #fe6f1d;
+}
+
+.services-content-box.design-one button::before {
+	background: linear-gradient(80deg, #fe6f1d, #fd9f4c);
+}
+
+/*--------------------------------------------- CSS FOR SERVICE-CONTENT-BOX-DESIGN-ONE COMPLETE ---------------------------------------*/
+
+
+
+/*--------------------------------------------- CSS FOR SERVICE-CONTENT-BOX-DESIGN-TWO START ---------------------------------------*/
+
+.services-content-box.design-two {
+	border: 1px solid #14c5fd;
+}
+
+.services-content-box.design-two h4 {
+	color: #14c5fd;
+}
+
+.services-content-box.design-two h4 i {
+	color: #14c5fd;
+}
+
+.services-content-box.design-two button::before {
+	background: linear-gradient(80deg, #14bdff, #ce4cfd);
+}
+
+/*--------------------------------------------- CSS FOR SERVICE-CONTENT-BOX-DESIGN-TWO COMPLETE ---------------------------------------*/
+
+
+
+/*--------------------------------------------- CSS FOR SERVICE-CONTENT-BOX-DESIGN-THREE START ---------------------------------------*/
+
+.services-content-box.design-three {
+	border: 1px solid #28e98c;
+}
+
+.services-content-box.design-three h4 {
+	color: #28e98c;
+}
+
+.services-content-box.design-three h4 i {
+	color: #28e98c;
+}
+
+.services-content-box.design-three button::before {
+	background: linear-gradient(80deg, #28e98c, #4cbbfd);
+}
+
+/*--------------------------------------------- CSS FOR SERVICE-CONTENT-BOX-DESIGN-THREE COMPLETE ---------------------------------------*/
+
+
+
+/*--------------------------------------------- CSS FOR SERVICE-CONTENT-BOX-DESIGN-FOUR START ---------------------------------------*/
+
+.services-content-box.design-four {
+	border: 1px solid #e4af12;
+}
+
+.services-content-box.design-four h4 {
+	color: #e4af12;
+}
+
+.services-content-box.design-four h4 i {
+	color: #e4af12;
+}
+
+.services-content-box.design-four button::before {
+	background: linear-gradient(80deg, #e4af12, #d6fd4c);
+}
+
+/*--------------------------------------------- CSS FOR SERVICE-CONTENT-BOX-DESIGN-FOUR COMPLETE ---------------------------------------*/
+
+
+
+/*--------------------------------------------- CSS FOR SERVICE-CONTENT-BOX-FRAMEWORK START ---------------------------------------*/
+
+.services-content-box.framework {
+	border: 1px solid #1338f3;
+}
+
+.services-content-box.framework h4 {
+	color: #1338f3;
+}
+
+.services-content-box.framework h4 i {
+	color: #1338f3;
+}
+
+.services-content-box.framework button::before {
+	background: linear-gradient(80deg, #1338f3, #4c91fd);
+}
+
+/*--------------------------------------------- CSS FOR SERVICE-CONTENT-BOX-FRAMEWORK COMPLETE ---------------------------------------*/
+
+
+
+/*--------------------------------------------- CSS FOR SERVICE-CONTENT-BOX-GRAPHICS-ONE START ---------------------------------------*/
+
+.services-content-box.graphics-one {
+	border: 1px solid #2fa3f7;
+}
+
+.services-content-box.graphics-one h4 {
+	color: #2fa3f7;
+}
+
+.services-content-box.graphics-one h4 i {
+	color: #2fa3f7;
+}
+
+.services-content-box.graphics-one button::before {
+	background: linear-gradient(80deg, #2fa3f7, #135f96);
+}
+
+/*--------------------------------------------- CSS FOR SERVICE-CONTENT-BOX-GRAPHICS-ONE COMPLETE ---------------------------------------*/
+
+
+/*--------------------------------------------- CSS FOR SERVICE-CONTENT-BOX-GRAPHICS-TWO START ---------------------------------------*/
+
+.services-content-box.graphics-two {
+	border: 1px solid #ff99cc;
+}
+
+.services-content-box.graphics-two h4 {
+	color: #ff99cc;
+}
+
+.services-content-box.graphics-two h4 i {
+	color: #ff99cc;
+}
+
+.services-content-box.graphics-two button::before {
+	background: linear-gradient(80deg, #f9c, #fd4c97);
+}
+
+/*--------------------------------------------- CSS FOR SERVICE-CONTENT-BOX-GRAPHICS-TWO COMPLETE ---------------------------------------*/
+
+
+/*--------------------------------------------- CSS FOR SERVICE-CONTENT-BOX-GRAPHICS-THREE START ---------------------------------------*/
+
+.services-content-box.graphics-three {
+	border: 1px solid #f79500;
+}
+
+.services-content-box.graphics-three h4 {
+	color: #f79500;
+}
+
+.services-content-box.graphics-three h4 i {
+	color: #f79500;
+}
+
+.services-content-box.graphics-three button::before {
+	background: linear-gradient(80deg, #f79500, #c6831c);
+}
+
+/*--------------------------------------------- CSS FOR SERVICE-CONTENT-BOX-GRAPHICS-THREE COMPLETE ------------------------
+
+
+/*--------------------------------------------- CSS FOR PRICING-CONTENT-BOX-1 START ---------------------------------------*/
+
+.pricing-content-box-1 {
+	border-color: #14c5fd;
+} 
+
+.pricing-content-box-1 h1 {
+	color: #14c5fd;
+}
+
+.pricing-content-box-1 h1 i {
+	color: #14c5fd;
+}
+
+.pricing-content-box-1 .pricing-content-specs {
+	border-top: 1px solid #14c5fd;
+}
+
+.pricing-content-box-1 .pricing-content-specs ul li:hover {
+	color: #14c5fd;
+}
+
+.pricing-content-box-1 button::before {
+	background: linear-gradient(80deg, #14bdff, #ce4cfd);
+}
+
+/*--------------------------------------------- CSS FOR PRICING-CONTENT-BOX-1 COMPLETE ---------------------------------------*/
+
+
+
+/*--------------------------------------------- CSS FOR PRICING-CONTENT-BOX-2 START ---------------------------------------*/
+
+.pricing-content-box-2 {
+	border-color: #e4af12;
+} 
+
+.pricing-content-box-2 h1 {
+	color: #e4af12;
+}
+
+.pricing-content-box-2 h1 i {
+	color: #e4af12;
+}
+
+.pricing-content-box-2 .pricing-content-specs {
+	border-top: 1px solid #e4af12;
+}
+
+.pricing-content-box-2 .pricing-content-specs ul li:hover {
+	color: #e4af12;
+}
+
+.pricing-content-box-2 button::before {
+	background: linear-gradient(80deg, #e4af12, #d6fd4c);
+}
+
+/*--------------------------------------------- CSS FOR PRICING-CONTENT-BOX-2 COMPLETE ---------------------------------------*/
+
+
+
+/*--------------------------------------------- CSS FOR PRICING-CONTENT-BOX-3 START ---------------------------------------*/
+
+.pricing-content-box-3 {
+	border-color: #28e98c;
+} 
+
+.pricing-content-box-3 h1 {
+	color: #28e98c;
+}
+
+.pricing-content-box-3 h1 i {
+	color: #28e98c;
+}
+
+.pricing-content-box-3 .pricing-content-specs {
+	border-top: 1px solid #28e98c;
+}
+
+.pricing-content-box-3 .pricing-content-specs ul li:hover {
+	color: #28e98c;
+}
+
+.pricing-content-box-3 button::before {
+	background: linear-gradient(80deg, #28e98c, #4cbbfd);
+}
+
+/*--------------------------------------------- CSS FOR PRICING-CONTENT-BOX-3 COMPLETE ---------------------------------------*/
+
+
+
+/*--------------------------------------------- CSS FOR PRICING-CONTENT-BOX-4 START ---------------------------------------*/
+
+.pricing-content-box-4 {
+	border-color: #ff99cc;
+} 
+
+.pricing-content-box-4 h1 {
+	color: #ff99cc;
+}
+
+.pricing-content-box-4 h1 i {
+	color: #ff99cc;
+}
+
+.pricing-content-box-4 .pricing-content-specs {
+	border-top: 1px solid #ff99cc;
+}
+
+.pricing-content-box-4 .pricing-content-specs ul li:hover {
+	color: #ff99cc;
+}
+
+.pricing-content-box-4 button::before {
+	background: linear-gradient(80deg, #f9c, #fd4c97);
+}
+
+/*--------------------------------------------- CSS FOR PRICING-CONTENT-BOX-4 COMPLETE ---------------------------------------*/

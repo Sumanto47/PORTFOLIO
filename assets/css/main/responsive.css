@@ -1,0 +1,755 @@
+
+/*----------------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 1920PX) SECTION START ------------------------------*/
+
+@media only screen and (max-width: 1920px) {
+    .bottom-header-links-part ul a li {
+        padding: 4px 20px;
+    }
+    .bottom-header-logo-part {
+        width: 160px;
+        padding: 10px 0;
+    }
+    .main-profile-mobile-ui-design-main {
+        top: 50px;
+        left: 0;
+        height: 90%;
+        width: 100%;
+    }
+}
+
+/*----------------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 1920PX) SECTION COMPLETE ------------------------------*/
+
+
+
+
+/*----------------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 1599PX) SECTION START ------------------------------*/
+
+@media only screen and (max-width: 1599px) {
+    .bottom-header-links-part ul a li {
+        margin-right: 25px;
+        padding: 4px 20px;
+        font-size: 13px;
+    }
+    .main-profile-mobile-ui-design-main {
+        padding: 0 30px;
+        height: 85%;
+    }
+    .my-info-text p {
+        font-size: 14px;
+    }
+    .my-profil-image-desc h2 {
+        font-size: 55px;
+        line-height: 55px;
+    }
+    .drop-zone {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .my-profil-image {
+        width: 100%;
+    }
+    .purchase-notf-body p {
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 25px;
+    }
+    section .content-heading {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 10px;
+    }
+    section h3.small,
+    section h3.small.note {
+        font-size: 30px;
+    }
+    .testmonial-content-box h4 {
+        font-size: 20px;
+    }
+
+}
+
+/*----------------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 1599PX) SECTION COMPLETE ------------------------------*/
+
+
+
+
+/*----------------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 1299PX) SECTION START ------------------------------*/
+
+@media only screen and (max-width: 1299px) {
+    .bottom-header-links-part {
+        display: none;
+    }
+    .mobile-menu {
+        height: 0;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        font-family: 'Space Grotesk', sans-serif;
+        border-radius: 0;
+        overflow-x: hidden;
+        transition: 1.2s cubic-bezier(0.215, 0.610, 0.355, 1);
+        padding-top: 60px;
+        display: block;
+        padding: 0;
+        background: #141a28;
+        z-index: 999;
+    }
+    .mobile-menu a {
+        padding: 15px 0 15px 30px;
+        text-decoration: none;
+        font-size: 18px;
+        color: #f7f7f7;
+        display: block;
+        transition: all 0.4s ease-in-out;
+        border-bottom: 0.5px solid #21283e;
+    }
+    .mobile-menu a i {
+        font-weight: 100;
+        font-size: 15px;
+    }  
+    .mobile-menu a:hover {
+        color: #fff;
+        background: linear-gradient(300deg, #14bcff28, #ce4cfd06);
+        padding: 15px 0 15px 40px;
+    }
+    .mobile-menu .closebtn {
+        font-size: 36px;
+        border-bottom: 0px solid #2d2d2d;
+    }
+    .bottom-header {
+        padding: 20px 0 10px;
+        width: 100%;
+    }
+    .bottom-header.sticky {
+        padding: 20px 30px 20px;
+    }
+    .mobile-toggle {
+        display: block;
+        text-align: right;
+        cursor: pointer;
+        position: relative;
+        height: 30px;
+        width: 100%;
+    }
+    .mobile-menu-bar {
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+    .bar1, .bar2, .bar3 {
+        width: 30px;
+        height: 2px;
+        background: #f5f5f5;
+        margin: 6px 0;
+        transition: all 0.2s ease-in-out;
+        border-radius: 5px;
+    }
+    .change .bar1 {
+        transform: translate(0, 9px) rotate(-45deg);
+    }
+    .change .bar2 {opacity: 0;}
+    .change .bar3 {
+        transform: translate(0, -7px) rotate(45deg);
+    }
+    .success-box {
+        width: 33%;
+    }
+    .rolling-poster img {
+        width: 18%;
+    }
+    .banner-content h1 {
+        font-size: 70px;
+        line-height: 80px;
+    }
+    .main-profile-scrollable {
+        position: unset;
+        width: 50%;
+        margin: 0 auto;
+    }
+    .main-profile-mobile-ui-design-main {
+        padding: 10px 20px 0;
+    }
+    .about-content-upload button {
+        padding: 15px 50px;
+    }
+    .drop-zone {
+        margin-top: 25px;
+    }
+    .jumbotron {
+        padding: 40px 0 !important;
+    }
+}
+
+/*----------------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 1299PX) SECTION COMPLETE ------------------------------*/
+
+
+
+
+/*----------------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 992PX) SECTION START ------------------------------*/
+
+@media only screen and (max-width: 992px) {
+    .rolling-poster img {
+        width: 22%;
+    }
+    .success-box p {
+        font-size: 17px;
+    }
+    .skills-content-box-text h5 {
+        font-size: 20px;
+    }
+    .id-selector-btn {
+        padding: 7px 25px;
+    }
+    .testmonial-content-box h4 {
+        font-size: 20px;
+        margin: 10px 0 30px;
+    }
+    .contact-content h4 {
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+    .main-profile-scrollable {
+        width: 60%;
+    }
+    .my-profil-image-desc p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .my-profil-image-desc {
+        padding: 20px 0;
+    }
+    .my-profil-image-desc h2 {
+        font-size: 60px;
+        line-height: 60px;
+    }
+    .purchase-notf-body p {
+        margin-bottom: 15px;
+    }
+    .jumbotron {
+        padding: 30px 0 40px !important;
+    }
+    .banner-content {
+        width: 95%;
+    }
+    .banner-content h1 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+    .banner-content p {
+        margin-bottom: 30px;
+    }
+    .sucsess-part {
+        padding: 30px 0 0;
+    }
+    .success-box p {
+        font-size: 16px;
+    }
+    .my-info-logo {
+        width: 100px;
+    }
+    .my-profile-image-desc p {
+        font-size: 16px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+    .my-profile-image-desc h6 {
+        margin: 20px 0;
+    }
+    .about {
+        padding: 0 0 30px;
+    }
+    .about-content p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .drop-zone {
+        height: 200px;
+    }
+    .drop-zone p {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 0;
+    }
+    .services-content-box h2 {
+        font-size: 30px;
+        line-height: 35px;
+        margin-bottom: 2px;
+    }
+    .services-content-box p {
+        font-size: 16px;
+        line-height: 25px;
+        margin-bottom: 10px;
+    }
+    .services-content-box {
+        padding: 25px 30px;
+    }
+    .services-content-box h4 {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .services {
+        padding: 30px 0 20px;
+    }
+    .services-content-box button {
+        margin: 20px 0 0;
+    }
+    .skills-content-box-text {
+        padding: 5px 0;
+    }
+    .skills-content-box-text #counter h1 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .resume-content-box h4 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .resume-content-box {
+        padding: 25px 0 25px 30px;
+    }
+    .portfolio-content-box h4 {
+        font-size: 25px;
+        line-height: 25px;
+    }
+    .portfolio-content-box p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .portfolio-content-box {
+        margin-bottom: 0;
+    }
+    .portfolio-content h3 {
+        margin: 30px 0;
+    }
+    .pricing-content-box h1 {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 20px;
+    }
+    .pricing-content-box .pricing-content-top-info {
+        padding: 0;
+    }
+    .pricing-content-box .pricing-content-specs {
+        height: 300px;
+        width: 100%;
+        padding: 30px 20px;
+    }
+    .pricing-content p {
+        font-size: 17px;
+    }
+    .pricing {
+        padding: 40px 0 20px;
+    }
+    .form-group label {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .form-group input,
+    .form-group select,
+    .form-group textarea {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .contact-form-box {
+        padding: 0 0 40px;
+    }
+    .sticky-social-icons a {
+        height: 65px;
+        width: 70px;
+    }
+    #sy-whatshelp a.sywh-open-services {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+/*----------------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 992PX) SECTION COMPLETE ------------------------------*/
+
+
+
+
+/*----------------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 768PX) SECTION START ------------------------------*/
+
+@media only screen and (max-width: 768px) {
+    .rolling-poster img {
+        width: 28%;
+    }
+    .banner-content h1 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .banner-content button {
+        padding: 12px 60px;
+    }
+    .success-box {
+        width: 50%;
+        margin: 0 auto;
+    }
+    .success-box:nth-child(2) {
+        border: none;
+    }
+    .resume-content-box {
+        padding: 30px 0 40px 30px;
+    }
+    .portfolio-content-box-image-overlay button {
+        font-size: 17px;
+        padding: 12px 50px;
+    }
+    .portfolio-content-box-image-template-btns {
+        bottom: 20px;
+        left: 20px;
+        overflow-x: auto;
+    }
+    .portfolio-content-box h4 {
+        font-size: 25px;
+    }
+    .testmonial-content-box {
+        width: 98%;
+        padding: 40px 35px;
+    }
+    .footer {
+        padding: 60px 0 0;
+    }
+    .footer-content h6 {
+        font-size: 18px;
+    }
+    .main-profile-scrollable {
+        width: 70%;
+    }
+    .my-profil-image {
+        width: 100%;
+        padding: 25px 0 0;
+    }
+    .my-profil-image-desc h2 {
+        font-size: 55px;
+        line-height: 55px;
+    }
+    .my-profil-image-desc ul li {
+        font-size: 18px;
+        margin-bottom: 2px;
+    }
+    .testmonial-content-box h4 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .sticky-social-icons a {
+        height: 60px;
+        width: 65px;
+    }
+    .sticky-social-bar {
+        top: 25%;
+    }
+    #chatbot-open-container {
+        right: 0.5rem;
+    }
+    #chatbot-interface {
+        height: auto;
+        width: 480px;
+    }
+    #chatbot-header p {
+        font-size: 15px;
+    }
+    #chatbot-header p i {
+        font-size: 16px;
+    }
+    #chatbot-chat {
+        padding: 30rem 1rem 1rem 1rem;
+    }
+    .body-content {
+        padding: 0;
+    }
+    section h3.small,
+    section h3.small.note {
+        font-size: 22px;
+        line-height: 30px;
+        margin: 0px 20px 20px;
+    }
+    .skills-content-box-text h5 {
+        font-size: 17px;
+    }
+    .testmonial-content-box h4 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    #sy-whatshelp {
+        left: 10px;
+    }
+    .mobile-menu .closebtn {
+        font-size: 30px;
+    }
+    .skills-content-box-image {
+        width: 120px;
+    }
+}
+
+/*----------------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 768PX) SECTION COMPLETE ------------------------------*/
+
+
+
+
+/*----------------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 576PX) SECTION START ------------------------------*/
+
+@media only screen and (max-width: 576px) {
+    .banner-content h1 {
+        font-size: 50px;
+        line-height: 60px;
+        margin-bottom: 5px;
+    }
+    .id-selector-btn {
+        padding: 7px 20px;
+        margin-bottom: 10px;
+    }
+    .banner-content p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .banner-content button {
+        padding: 12px 65px;
+        font-size: 16px;
+    }
+    .success-box {
+        width: 100%;
+    }
+    .sucsess-part {
+        padding: 50px 0 0;
+    }
+    .about-content p {
+        font-size: 15px;
+        line-height: 25px;
+        margin-bottom: 5px;
+    }
+    .resume-content-box {
+        padding: 30px 0 35px 25px;
+    }
+    .resume-content-box h4 {
+        font-size: 22px;
+        margin: 20px 0 0px;
+        line-height: 28px;
+    }
+    .rolling-poster img {
+        width: 40%;
+    }
+    .portfolio-content-box-image-template-btns {
+        bottom: 10px;
+        left: 10px;
+    }
+    .portfolio-content-box-image-template-btns button {
+        font-size: 12px;
+        padding: 6px 20px;
+    }
+    .portfolio-content-box-image-overlay button {
+        font-size: 16px;
+        padding: 10px 40px;
+    }
+    .portfolio-content-box h4 {
+        font-size: 20px;
+        margin: 10px 0 15px;
+    }
+    .portfolio-content-box p {
+        font-size: 16px;
+    }
+    .portfolio-content h3 {
+        margin: 10px 0;
+    }
+    .skills-content-box-text h5 {
+        font-size: 18px;
+    }
+    .portfolio-content-box-image {
+        border-radius: 15px;
+    }
+    .readmore__toggle {
+        font-size: 16px;
+        padding: 12px 60px;
+    }
+    .portfolio-content-icons-box {
+        margin-bottom: 15px;
+        padding: 10px 20px;
+    }
+    .testmonial-content-box {
+        width: 98%;
+        padding: 30px 25px;
+    }
+    .pricing-content p {
+        font-size: 16px;
+        line-height: 28px;
+        margin: 10px 0 0;
+    }
+    .contact-content h4 {
+        font-size: 20px;
+        margin-bottom: 25px;
+    }
+    .contact-content button {
+        font-size: 16px;
+        padding: 12px 60px;
+    }
+    .contact-form-box {
+        padding: 0 0 30px;
+    }
+    .footer {
+        padding: 40px 0 0;
+    }
+    .footer-content h6 {
+        font-size: 17px;
+    }
+    .main-profile-scrollable {
+        width: 95%;
+    }
+    .my-profile-image {
+        width: 100%;
+    }
+    .my-profil-image {
+        padding: 20px 0 0;
+    }
+    .my-profil-image img {
+        width: 90%;
+    }
+    .my-profil-image-desc h2 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .my-profil-image-desc p {
+        margin-bottom: 30px;
+    }
+    .resume-content-box h6 {
+        margin-bottom: 0;
+    }
+    .my-info-logo {
+        width: 100px;
+    }
+    .drop-zone {
+        padding: 20px;
+    }
+    .sticky-social-icons a {
+        height: 60px;
+        width: 60px;
+    }
+    .sticky-social-icons a i {
+        font-size: 20px;
+    }
+    #sy-whatshelp a.sywh-open-services {
+        width: 70px;
+        height: 70px;
+        font-size: 25px;
+    }
+    #sy-whatshelp .sywh-services a i {
+        width: 75px;
+        height: 75px;
+    }
+    .scrollToTopBtn {
+        height: 50px;
+        width: 60px;
+    }
+    .testmonial-content-box-user-info img {
+        width: 60px !important;
+    }
+    .testmonial-content-box h4 {
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .box {
+        top: 35%;
+        left: 20%;
+    }
+    .box span {
+        width: 15px;
+        height: 15px;
+    }
+    .purchase-pop-up {
+        width: 350px;
+        left: 10px;
+    }
+    .purchase-notf-head {
+        flex-wrap: wrap;
+        padding: 15px 20px;
+    }
+    .purchase-notf-head h6 {
+        font-size: 16px;
+    }
+    .purchase-notf-head a {
+        width: 40%;
+    }
+    .purchase-notf-head a p {
+        font-size: 15px;
+    }
+    .my-profile-social-icons {
+        margin-bottom: 20px;
+    }
+    .main-profile-scrollable {
+        padding: 20px 0 30px;
+    }
+    section .content-heading {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    section h3.small,
+    section h3.small.note {
+        font-size: 20px;
+        line-height: 25px;
+        margin: 0px 0 20px;
+    }
+    .services-content-box h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .other-hobbies img {
+        width: 50px !important;
+    }
+    .skills {
+        padding: 30px 0 10px;
+    }
+    .portfolio {
+        padding: 30px 0 30px;
+    }
+    .pricing-content-box {
+        padding: 15px 20px;
+    }
+    .pricing-content-box .pricing-content-top-info p {
+        font-size: 14px;
+    }
+    .pricing-content-box .pricing-content-top-info {
+        flex-direction: column;
+        align-items: start;
+        justify-content: flex-start;
+    }
+    .pricing-content-box .pricing-content-top-info p {
+        text-align: left;
+    }
+    .pricing-content-box .pricing-content-top-info h4 {
+        width: 100%;
+    }
+    .pricing-content-box h1 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 15px;
+    }
+    .pricing-content-box h1 span {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .pricing-content-box .pricing-content-specs {
+        padding: 20px 20px;
+    }
+    .pricing-content-box button {
+        margin: 30px 0 0;
+        padding: 15px 20px;
+    }
+    .pricing-content p {
+        font-size: 15px;
+        line-height: 25px;
+        margin: 0; 
+    }
+}
+
+/*----------------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 576PX) SECTION COMPLETE ------------------------------*/
+
+
+
+
+/*----------------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 375PX) SECTION START ------------------------------*/
+
+@media only screen and (max-width: 375px) {
+    
+}
+
+/*----------------------------- MEDIA QUERRY (RESPONSIVE FOR MAXIMUM 375PX) SECTION COMPLETE ------------------------------*/
